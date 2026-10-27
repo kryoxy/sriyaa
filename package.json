@@ -1,0 +1,15 @@
+{
+  "name": "sriyaa",
+  "version": "1.0.0",
+  "description": "16 ready-to-use fonts for Discord bots and canvas images, with a one-line loader for @napi-rs/canvas.",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./fonts/*": "./fonts/*"
+  },
+  "files": ["index.js", "fonts", "previews", "README.md"],
+  "keywords": ["fonts", "canvas", "napi-rs", "discord", "discord-bot", "ttf", "otf", "sriyaa"],
+  "license": "UNLICENSED",
+  "publishConfig": { "access": "public" }
+}
