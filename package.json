@@ -12,4 +12,7 @@
   "keywords": ["fonts", "canvas", "napi-rs", "discord", "discord-bot", "ttf", "otf", "sriyaa"],
   "license": "UNLICENSED",
   "publishConfig": { "access": "public" }
+  "repository": { "type": "git", "url": "git+https://github.com/kryoxy/sriyaa.git" },
+  "homepage": "https://github.com/kryoxy/sriyaa#readme",
+  "author": "kryoxy"
 }
